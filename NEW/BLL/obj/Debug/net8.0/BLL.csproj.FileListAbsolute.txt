@@ -1,0 +1,11 @@
+C:\Users\IET\Downloads\NEW\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\IET\Downloads\NEW\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\IET\Downloads\NEW\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\ref\BLL.dll

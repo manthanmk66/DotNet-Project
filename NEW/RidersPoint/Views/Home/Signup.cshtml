@@ -1,0 +1,63 @@
+@* <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+</head>
+<body>
+    <form method="post">
+    <H1>Register</H1>
+Enter Email Id: <input type="email" name= "emailid">
+<br>
+Enter Password: <input type="password" name="password">
+<br>
+<button type="submit">Register</button>
+
+
+</form>
+
+    
+</body>
+</html>
+ *@
+
+
+<form method="post">
+  <!-- Email input -->
+  <div class="form-outline mb-4">
+    <input type="email" name="emailid" id="form2Example1" class="form-control" />
+    <label class="form-label" for="form2Example1">Email address</label>
+  </div>
+
+  <!-- Password input -->
+  <div class="form-outline mb-4">
+    <input type="password" name="password" id="form2Example2" class="form-control" />
+    <label class="form-label" for="form2Example2">Password</label>
+  </div>
+
+  <!-- 2 column grid layout for inline styling -->
+  <div class="row mb-4">
+    <div class="col d-flex justify-content-center">
+      <!-- Checkbox -->
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" value="" id="form2Example31" checked />
+        <label class="form-check-label" for="form2Example31"> Remember me </label>
+      </div>
+    </div>
+
+    <div class="col">
+      <!-- Simple link -->
+      
+    </div>
+  </div>
+
+  <!-- Submit button -->
+  <button type="submit" class="btn btn-primary btn-block mb-4">Register</button>
+
+  <!-- Register buttons -->
+  <div class="text-center">
+    <p>Already a member? <a href="/Home/Login">Login</a></p>
+   
+  </div>
+</form>
