@@ -9,3 +9,15 @@ C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\BLL.dll
 C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\refint\BLL.dll
 C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\BLL.pdb
 C:\Users\IET\Downloads\NEW\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\DotNet\Manthan\RidersPoint\New\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\DotNet\Manthan\RidersPoint\New\BLL\bin\Debug\net8.0\BLL.dll
+D:\DotNet\Manthan\RidersPoint\New\BLL\bin\Debug\net8.0\BLL.pdb
+D:\DotNet\Manthan\RidersPoint\New\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Manthan\RidersPoint\New\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\DotNet\Manthan\RidersPoint\New\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\DotNet\Manthan\RidersPoint\New\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\DotNet\Manthan\RidersPoint\New\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+D:\DotNet\Manthan\RidersPoint\New\BLL\obj\Debug\net8.0\BLL.dll
+D:\DotNet\Manthan\RidersPoint\New\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\DotNet\Manthan\RidersPoint\New\BLL\obj\Debug\net8.0\BLL.pdb
+D:\DotNet\Manthan\RidersPoint\New\BLL\obj\Debug\net8.0\ref\BLL.dll

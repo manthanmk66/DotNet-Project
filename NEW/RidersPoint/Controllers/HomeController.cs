@@ -17,25 +17,45 @@ public class HomeController : Controller
     }
 
 
-    [HttpGet]
+
+          public IActionResult Welcome()
+    {
+        return View();
+    }
+
+
+    // [HttpGet]
         public IActionResult Login()
     {
         return View();
     }
  [HttpPost]
-       public IActionResult Login(string emailId ,string password)
+       public IActionResult Login(string emailid ,string password)
     {  
-        System.Console.WriteLine("Register IN");
-        Login li=new Login(emailId,password);
-        DBUser.register(li);
-        return View();
+         bool isValidLogin = DBUser.Login(emailid, password);
+
+        if (isValidLogin)
+        {
+            // If login is successful, you can redirect to a different action or view
+            return RedirectToAction("Welcome"); // Change "LoggedIn" and "Home" to your desired action and controller names
+        }
+        else
+        {
+            // If login fails, you can return the user to the same view with an error message
+            ViewBag.ErrorMessage = "Invalid email or password. Please try again.";
+            return View("Index");
+        }
+
+    
+
     }
 
-
-        public IActionResult Signup()
+     public IActionResult Signup()
     {
         return View();
     }
+
+
  [HttpPost]
        public IActionResult Signup(string emailId ,string password)
     {  
